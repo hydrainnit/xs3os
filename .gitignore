@@ -1,0 +1,11 @@
+# build output and local signing keys
+build/
+*.keystore
+*.jks
+local.properties
+.DS_Store
+
+# third-party artwork and audio that are not redistributed (see docs/custom-assets.md)
+assets/xmb_icons.txt
+assets/sfx/
+tools/icons/src/

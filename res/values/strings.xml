@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_service_desc">Lets XS3OS put the TV to sleep (Power Off, Sleep Timer) and close apps when you press Clear Memory in Power. It is only used when you ask XS3OS to do one of these.</string>
+</resources>

@@ -1,0 +1,24 @@
+XS3OS
+Copyright 2026 Hydrainnit
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+XS3OS is an independent project and is not affiliated with, endorsed by or sponsored by Sony
+Interactive Entertainment or PlayStation. "PlayStation", "PS3" and "XrossMediaBar" are trademarks
+of their owners and are used here only to describe the look this launcher is inspired by.
+
+Parts of the application framework (presentation player, weather, recommendations, power
+helpers) derive from Hume Launcher, Copyright 2026 Petrobot, also under Apache License 2.0.
+That notice is kept as the licence requires.
+
+Third-party components:
+
+- Inter typeface, Copyright the Inter Project Authors, SIL Open Font License 1.1
+  (assets/fonts/Inter-LICENSE.txt)
+- QR Code generator library (Java), Copyright (c) Project Nayuki, MIT License
+  (src/io/nayuki/qrcodegen)
+- Photographs from Pexels (https://www.pexels.com), used under the Pexels License
+  (https://www.pexels.com/license/); every photographer is listed in
+  assets/wallpapers/index.json and CREDITS.md.
+- Movie data and images from TMDB. This product uses the TMDB API but is not endorsed or
+  certified by TMDB.
